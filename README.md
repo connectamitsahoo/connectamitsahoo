@@ -4,7 +4,7 @@
 
 **:sparkles: About me**
 
-<p>I am a passionate and skilled web developer with a experience in building and maintaining websites and web applications. I enjoy the challenge of turning ideas into functional and user-friendly experiences.</p>
+<p>I am a passionate web developer with a experience in building and maintaining websites and web applications. I enjoy the challenge of turning ideas into functional and user-friendly experiences.</p>
 <p>I love to learn new technologies and stay up-to-date with the latest trends in web development.</p>
 
 **:seedling: I’m currently learning**
