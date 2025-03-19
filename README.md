@@ -1,6 +1,6 @@
 # :wave: Hello world!
 
-<p>Hi, I am Amit.</p>
+##Hi, I am Amit.
 
 **:sparkles: About me**
 
